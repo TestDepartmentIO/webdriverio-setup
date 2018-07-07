@@ -17,7 +17,7 @@ __You will be presented with a few questions to guide you through setting up the
 Use arrow keys if neccessary to move to required options advised below
 
 | Question                                                             | Answer              |
-| :------------------------------------------------------------------: | :-----------------: |
+| -------------------------------------------------------------------- | ------------------- |
 | Where do you want to execute your tests?                             | On my local machine |
 | Which framework do you want to use?                                  | mocha               |
 | Shall I install the framework adapter for you?                       | Yes                 |
