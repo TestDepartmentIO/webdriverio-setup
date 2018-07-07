@@ -30,4 +30,4 @@ Use arrow keys if neccessary to move to required options advised below
 | What is the base url?                                                | http://bing.com     |
 
 #### Run tests
-1. `./node_modules/.bin/wdio`
+4. `./node_modules/.bin/wdio`
